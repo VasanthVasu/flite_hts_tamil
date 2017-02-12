@@ -2,6 +2,18 @@ Flite HTS Tamil
 ===============
 	Simple text-to-speech tool for tamil drived from work done by SSN speech lab http://www.ssn.edu.in/Speech_Lab/Speech_home.html
 
+Compilation
+===========
+	$ git clone git@github.com:men-tamil/flite_hts_tamil.git
+	$ cd flite_hts_tamil
+	$ make
+
+Usage
+=====
+	$ cd flite_hts_tamil
+	$ echo "வணக்கம்" | ./flite_tts_tamil -m asserts/naveen_tamil.htsvoice -o output.wav
+	$ gst-play output.wav
+
 Links
 =====
 
