@@ -19,7 +19,7 @@ Links
 
 * [htk](http://htk.eng.cam.ac.uk/) - implementation of hidden markov model
 * [hts](http://hts.sp.nitech.ac.jp/) - speech synthesis on top of htk
-* [flite](http://www.festvox.org/flite) - this tool interacts with flite's api
+* [flite](http://www.festvox.org/flite) - a fast speech synthesizer on top of htk
 * [flitevox voice files](http://www.festvox.org/flite/packed/flite-2.0/voices) - voice files for flite.
 * [comparison of open source text recognition toolkits](http://suendermann.com/su/pdf/oasis2014.pdf) - contains details about popular open source tts toolkits
 * [kaldi](http://kaldi-asr.org/) - alternative to htk
