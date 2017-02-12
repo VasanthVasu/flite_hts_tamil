@@ -1,0 +1,13 @@
+Flite HTS Tamil
+===============
+	Simple text-to-speech tool for tamil drived from work done by SSN speech lab http://www.ssn.edu.in/Speech_Lab/Speech_home.html
+
+Links
+=====
+
+[htk](http://htk.eng.cam.ac.uk/) - implementation of hidden markov model
+[hts](http://hts.sp.nitech.ac.jp/) - speech synthesis on top of htk
+[flite](http://www.festvox.org/flite) - this tool interacts with flite's api
+[flitevox voice files](http://www.festvox.org/flite/packed/flite-2.0/voices) - voice files for flite.
+[comparison of open source text recognition toolkits](http://suendermann.com/su/pdf/oasis2014.pdf) - contains details about popular open source tts toolkits
+[kaldi](http://kaldi-asr.org/) - alternative to htk
