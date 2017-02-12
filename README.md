@@ -1,6 +1,6 @@
 Flite HTS Tamil
 ===============
-Simple text-to-speech tool for tamil drived from work done by SSN speech lab http://www.ssn.edu.in/Speech_Lab/Speech_home.html
+Simple text-to-speech tool for tamil. This tool uses code from open source android app developed by [donlab](http://www.iitm.ac.in/donlab/tts/index.php)
 
 Compilation
 ===========
