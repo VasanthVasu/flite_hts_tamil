@@ -11,7 +11,7 @@ Compilation
 Usage
 =====
 	$ cd flite_hts_tamil
-	$ echo "வணக்கம்" | ./flite_tts_tamil -m asserts/naveen_tamil.htsvoice -o output.wav
+	$ echo "வணக்கம்" | src/flite_tts_tamil -m asserts/naveen_tamil.htsvoice -o output.wav
 	$ gst-play output.wav
 
 Links
